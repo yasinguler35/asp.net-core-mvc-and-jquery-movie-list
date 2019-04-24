@@ -1,0 +1,16 @@
+@model IEnumerable<Category>
+<div class="list-group">
+    <a href="" id="0" class="list-group-item list-group-item-action active">
+        Tüm Kategoriler
+    </a> 
+    @foreach (var category in Model)
+    {
+    <a href="" id="@category.Id" class="list-group-item list-group-item-action">
+        @category.Name
+    </a>  
+    }
+
+
+</div>
+<script src="~/js/jquery.min.js"></script>
+<script src="~/js/activeclass.js"></script>

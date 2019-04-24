@@ -1,0 +1,72 @@
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.deps.json
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.runtimeconfig.json
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.runtimeconfig.dev.json
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.dll
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.pdb
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.Views.dll
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.Views.pdb
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.csprojAssemblyReference.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.csproj.CoreCompileInputs.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorAssemblyInfo.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorAssemblyInfo.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.AssemblyInfoInputs.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.AssemblyInfo.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.TagHelpers.input.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.TagHelpers.output.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorCoreGenerate.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Details.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Movie\List.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorTargetAssemblyInfo.cache
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorTargetAssemblyInfo.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.Views.pdb
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.dll
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.pdb
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.csproj.CopyComplete
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\_movies.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_menu.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Yasin GÜLER\Desktop\react example\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.deps.json
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.runtimeconfig.json
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.runtimeconfig.dev.json
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.dll
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.pdb
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.Views.dll
+D:\belgeler\Desktop\mvc movie\bin\Debug\netcoreapp2.2\mvc movie.Views.pdb
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.csprojAssemblyReference.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.csproj.CoreCompileInputs.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorAssemblyInfo.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorAssemblyInfo.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.AssemblyInfoInputs.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.AssemblyInfo.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.TagHelpers.input.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.TagHelpers.output.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorCoreGenerate.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Home\_movies.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Details.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Movie\List.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_menu.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorTargetAssemblyInfo.cache
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.RazorTargetAssemblyInfo.cs
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.Views.pdb
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.dll
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.pdb
+D:\belgeler\Desktop\mvc movie\obj\Debug\netcoreapp2.2\mvc movie.csproj.CopyComplete
